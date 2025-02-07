@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    padding: 0px;
+    display: inline-block;
+    text-align: center;
+}
+
+span {
+    color: #2196f3;
+}
+
+.nav-hover:hover {
+    color: #2196f3;
+}
+
+.nav {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.address {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+
+button:hover {
+    background-color: #2196f3;
+    color: white;
+}
+
+button {
+    border: 0;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+    text-align: center;
+    height: 38px;
+    padding: 0;
+}
+
+ul {
+    padding: 0px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.all {
+    width: 73px;
+}
+
+.web {
+    width: 125px;
+    height: 38px;
+}
+
+.applications {
+    width: 112px;
+}
+
+.design {
+    width: 103px;
+}
+
+.marketing {
+    width: 130px;
+}
+
+.webstudio {
+    font-size: 26px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+
+.footer-webstudio {
+    font-size: 26px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
